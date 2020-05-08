@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "author": {
+    "name": "Lukas Ehnle",
+    "email": "lukas@ehnle.dev",
+    "url": "https://ehnle.dev"
+  },
+  "scripts": {
+    "install": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "name": "poc"
+}

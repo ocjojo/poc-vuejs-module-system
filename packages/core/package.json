@@ -1,0 +1,16 @@
+{
+  "name": "poc-core",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "mitt": "^1.2.0",
+    "poc-module1": "^0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^0.12.0",
+    "@vue/compiler-sfc": "^3.0.0-beta.10"
+  }
+}
